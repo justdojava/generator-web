@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: servlet-api-2.5.jar mysql-connector-java-5.1.34.jar common
+ s-lang-2.5.jar mybatis-generator-local-1.3.3.jar
+
